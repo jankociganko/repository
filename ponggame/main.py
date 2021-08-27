@@ -1,6 +1,8 @@
 import pygame
 import os
-import time
+import time peeeeeeeeeeenis
+
+
 pygame.font.init()
 pygame.mixer.init()
 
